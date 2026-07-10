@@ -64,7 +64,7 @@ const siteConfig = {
     },
     {
       label: '06',
-      title: 'Short / long form video idea', // TODO: replace or remove this placeholder card
+      title: 'Short / Long Form Video Idea', // TODO: replace or remove this placeholder card
       copy: 'Boosting the script and content delivery at best.',
     },
   ],
@@ -111,11 +111,11 @@ const siteConfig = {
 
   // ---- Socials (your own) --------------------------------------------
   socials: [
-    { name: 'Instagram', url: 'https://instagram.com/yourhandle' }, // TODO
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/yourhandle' }, // TODO
-    { name: 'Twitter / X', url: 'https://x.com/yourhandle' }, // TODO
-    { name: 'Threads', url: 'https://threads.net/@yourhandle' }, // TODO
-    { name: 'YouTube', url: 'https://youtube.com/@yourhandle' }, // TODO
+    { name: 'Instagram', url: 'https://www.instagram.com/i_rony19?igsh=dTFyNnBnNTF2cnJp' }, // TODO
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/rohan-kumar-70b8b2255/' }, // TODO
+    { name: 'Twitter / X', url: 'https://x.com/Rohan_kumar26' }, // TODO
+    { name: 'Threads', url: 'https://www.threads.com/@i_rony19' }, // TODO
+    // { name: 'YouTube', url: 'https://youtube.com/@yourhandle' }, // TODO
   ],
 
   // ---- CTAs --------------------------------------------------------
