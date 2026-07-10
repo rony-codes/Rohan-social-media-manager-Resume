@@ -18,7 +18,7 @@ export default function About() {
               {siteConfig.name[0]}
             </span>
             <div className="absolute top-2 bottom-0 left-0 font-mono text-[10px] uppercase tracking-widest text-fgDim">
-             <img src= 'src/Public/images/Rohanimg.jpeg' />
+             <img src= 'src\Public\images\RohanImg.jpeg' />
             </div>
           </div>
           <div className="absolute -bottom-5 -right-5 bg-ink border border-line rounded-full px-5 py-3 font-mono text-[10px] uppercase tracking-widest text-silver-light shadow-sm">
